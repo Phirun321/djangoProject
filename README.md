@@ -42,3 +42,6 @@
 
 ###see more detail about migrations 'https://docs.djangoproject.com/en/4.0/topics/migrations/'
 ###see more about django 'https://docs.djangoproject.com/en/4.0/'
+
+
+##available route : localhost:8000/posts or /admin
